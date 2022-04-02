@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(yellow , orange, rgb(255, 0, 179), crimson, purple  );
+    color: white;
+}
+h3{
+    color:whitesmoke;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name-of-objects , #result-object-name , #result-object-accuracy{
+color: rgb(255, 240, 254);
+}
